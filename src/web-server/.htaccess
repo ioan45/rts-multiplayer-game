@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# All http requests are redirected to https.
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L]
+
+# All requests are redirected to and handled by index.php.
+RewriteCond %{REQUEST_URI} !(^\/index\.php$) [NC]
+RewriteRule ^(.*)$ /index.php [L]

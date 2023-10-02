@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1def660bb786ae43817c097aa581ba1, type: 3}
+  m_Name: Player1
+  m_EditorClassIdentifier: 
+  playerNumber: 1
+  cameraPosition: {x: -37.5, y: 709, z: 217}
+  cameraRotationAngles: {x: 70, y: 180, z: 0}
+  unitFacingDirOnSpawn: {x: -1, y: 0, z: 0}
+  mainTargetObjName: Player2CombatUnit
+  alliesLayer: 7
+  enemiesLayer: 8

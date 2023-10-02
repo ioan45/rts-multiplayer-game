@@ -1,0 +1,47 @@
+
+[Game Art & Animations]
+
+Kay Lousberg -- Map tiles & objects: 
+    https://kaylousberg.itch.io/kaykit-medieval-builder-pack
+Robert Brooks -- UI meters: 
+    https://gamedeveloperstudio.itch.io/meters-and-levels
+Dungeon Mason -- Battle units: 
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/battle-wizard-poly-art-128097
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-lich-pbr-hp-polyart-91497
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/rpg-hero-pbr-hp-polyart-121480
+    https://assetstore.unity.com/packages/3d/characters/humanoids/rpg-tiny-hero-duo-pbr-polyart-225148
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-grunt-pbr-hp-polyart-98187
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-rock-golem-pbr-hp-polyart-94707
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-footman-pbr-hp-polyart-86576
+    https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227
+    https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-partners-pbr-polyart-168251
+Meshtint Studio -- Battle units:
+    https://assetstore.unity.com/packages/3d/characters/creatures/meshtint-free-polygonal-metalon-151383
+    https://assetstore.unity.com/packages/3d/characters/meshtint-free-boximon-fiery-mega-toon-series-153958
+Wishforge Games -- Camera button icon:
+    https://wishforge.itch.io/3000-free-icons
+Kenney -- Most of the UI elements:
+    https://www.kenney.nl/assets/ui-pack
+    https://www.kenney.nl/assets/ui-pack-space-expansion
+craftpix.net -- Parallax loading screen:
+    https://free-game-assets.itch.io/free-horizontal-game-backgrounds
+spoicat.itch.io -- Game title font:
+    https://spoicat.itch.io/lernfos
+Stephan Bouchard -- TextMesh Pro:
+    https://learn.unity.com/tutorial/working-with-textmesh-pro
+
+
+[Sounds]
+
+Kenney -- Button click:
+    https://www.kenney.nl/assets/ui-pack
+alkakrab.itch.io -- Music:
+    https://alkakrab.itch.io/free-25-fantasy-rpg-game-tracks-no-copyright-vol-2
+kronbits.itch.io -- SFX:
+    https://kronbits.itch.io/freesfx
+
+
+[Battle Units Movement AI]
+
+Aron Granberg:
+    https://arongranberg.com/astar/
